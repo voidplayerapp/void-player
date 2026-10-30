@@ -34,11 +34,11 @@ am Handy über mpv. Welche Formate, HDR-Varianten und Tonformate funktionieren, 
 Die aktuelle Beta und die Versionshinweise findest du unter [Releases](https://github.com/voidplayerapp/void-player/releases).
 Alle APK-Downloads liegen hier auf GitHub.
 
-| Download | Dafür ist die Datei gedacht |
-|---|---|
-| [VOID-Player-TV.apk](https://voidplayerapp.github.io/tv/) | Android TV, Google TV und Fire TV |
-| [VOID-Player-Phone.apk](https://voidplayerapp.github.io/handy/) | Android-Handys |
-| [VOID-Player-Universal.apk](https://voidplayerapp.github.io/universal/) | ARM-Geräte, wenn du das größere Universal-Paket brauchst |
+| Download | Dafür ist die Datei gedacht  VirusTotal |
+|---|---|---|
+| [VOID-Player-TV.apk](https://voidplayerapp.github.io/tv/) | Android TV, Google TV und Fire TV  [Bericht ansehen](https://www.virustotal.com/gui/file/09b311b3e1b9f86084bafa8356aeb79c5c94629799c3d051db5bb6dd21d153a5) |
+| [VOID-Player-Phone.apk](https://voidplayerapp.github.io/handy/) | Android-Handys  [Bericht ansehen](https://www.virustotal.com/gui/file/b281a653eddbbc8588569a4773a2a0c18eecb443d63b22075b852885458f108b) |
+| [VOID-Player-Universal.apk](https://voidplayerapp.github.io/universal/) | ARM-Geräte, wenn du das größere Universal-Paket brauchst  [Bericht ansehen](https://www.virustotal.com/gui/file/f9771c1ddb8396dd7e0ff68b842aed6acf08a6e3c2b929cdac5ec18bea73cf87) |
 
 Am Fernseher die App **Downloader** öffnen und **8238632** eingeben, oder `voidplayerapp.github.io/tv` verwenden.
 
