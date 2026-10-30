@@ -19,6 +19,7 @@ Just send a short message saying you'd like to try VOID. Requests are private an
 | Area | In VOID Player |
 |---|---|
 | Live TV | Xtream and M3U sources, a timeline guide, catch-up where your provider supports it, and recordings on TV. |
+| Sports | Fixtures, results and live scores for your teams, with matching channels where available. |
 | Movies and series | Posters, descriptions and cast for your library, plus favorites and playback history. |
 | VOID Connect | A library built from your sources, with posters and playback inside VOID. |
 | Add-ons | Add Stremio-compatible add-ons by link and browse their catalogs in the app. |

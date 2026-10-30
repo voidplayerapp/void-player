@@ -19,6 +19,7 @@ Schreib einfach kurz, dass du VOID ausprobieren möchtest. Deine Anfrage bleibt 
 | Bereich | In VOID Player |
 |---|---|
 | Live-TV | Xtream- und M3U-Quellen, Programm-Zeitleiste, Catch-up, wenn dein Anbieter es unterstützt, und Aufnahmen am Fernseher. |
+| Sport | Spielpläne, Ergebnisse und Live-Stände deiner Teams sowie passende Sender, soweit verfügbar. |
 | Filme und Serien | Poster, Beschreibungen und Besetzung für deine Bibliothek, dazu Favoriten und Wiedergabeverlauf. |
 | VOID Connect | Aus deinen Quellen wird eine Bibliothek mit Postern und Wiedergabe direkt in VOID. |
 | Add-ons | Stremio-kompatible Add-ons per Link hinzufügen und ihre Kataloge in der App durchsehen. |
