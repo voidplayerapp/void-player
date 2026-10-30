@@ -34,11 +34,11 @@ Format support, HDR and audio passthrough depend on your device and source.
 The current beta and its release notes are under [Releases](https://github.com/voidplayerapp/void-player/releases).
 All APK downloads are hosted here on GitHub.
 
-| Download | Choose this for  VirusTotal |
+| Download | Choose this for | VirusTotal |
 |---|---|---|
-| [VOID-Player-TV.apk](https://voidplayerapp.github.io/tv/) | Android TV, Google TV and Fire TV  [View report](https://www.virustotal.com/gui/file/09b311b3e1b9f86084bafa8356aeb79c5c94629799c3d051db5bb6dd21d153a5) |
-| [VOID-Player-Phone.apk](https://voidplayerapp.github.io/phone/) | Android phones  [View report](https://www.virustotal.com/gui/file/b281a653eddbbc8588569a4773a2a0c18eecb443d63b22075b852885458f108b) |
-| [VOID-Player-Universal.apk](https://voidplayerapp.github.io/universal/) | ARM devices when you need the larger universal package  [View report](https://www.virustotal.com/gui/file/f9771c1ddb8396dd7e0ff68b842aed6acf08a6e3c2b929cdac5ec18bea73cf87) |
+| [VOID-Player-TV.apk](https://voidplayerapp.github.io/tv/) | Android TV, Google TV and Fire TV | [View report](https://www.virustotal.com/gui/file/09b311b3e1b9f86084bafa8356aeb79c5c94629799c3d051db5bb6dd21d153a5) |
+| [VOID-Player-Phone.apk](https://voidplayerapp.github.io/phone/) | Android phones | [View report](https://www.virustotal.com/gui/file/b281a653eddbbc8588569a4773a2a0c18eecb443d63b22075b852885458f108b) |
+| [VOID-Player-Universal.apk](https://voidplayerapp.github.io/universal/) | ARM devices when you need the larger universal package | [View report](https://www.virustotal.com/gui/file/f9771c1ddb8396dd7e0ff68b842aed6acf08a6e3c2b929cdac5ec18bea73cf87) |
 
 On a TV, open the **Downloader** app and enter **8238632**, or use `voidplayerapp.github.io/tv`.
 
