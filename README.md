@@ -37,9 +37,9 @@ All APK downloads are hosted here on GitHub.
 
 | Download | Choose this for | VirusTotal |
 |---|---|---|
-| [VOID-Player-TV.apk](https://voidplayerapp.github.io/tv/) | Android TV, Google TV and Fire TV | [View report](https://www.virustotal.com/gui/file/09b311b3e1b9f86084bafa8356aeb79c5c94629799c3d051db5bb6dd21d153a5) |
-| [VOID-Player-Phone.apk](https://voidplayerapp.github.io/phone/) | Android phones | [View report](https://www.virustotal.com/gui/file/b281a653eddbbc8588569a4773a2a0c18eecb443d63b22075b852885458f108b) |
-| [VOID-Player-Universal.apk](https://voidplayerapp.github.io/universal/) | ARM devices when you need the larger universal package | [View report](https://www.virustotal.com/gui/file/f9771c1ddb8396dd7e0ff68b842aed6acf08a6e3c2b929cdac5ec18bea73cf87) |
+| [VOID-Player-TV.apk](https://voidplayerapp.github.io/tv/) | Android TV, Google TV and Fire TV | [View report](https://www.virustotal.com/gui/file/4369be408df0bf2d71298c66ff9a785bbb65d68636534a12876f0b03c51d10e9) |
+| [VOID-Player-Phone.apk](https://voidplayerapp.github.io/phone/) | Android phones | [View report](https://www.virustotal.com/gui/file/2af36ff0ce894506cc75f662e152ea3c5c1d259c405e689803e8cb106aafff05) |
+| [VOID-Player-Universal.apk](https://voidplayerapp.github.io/universal/) | ARM devices when you need the larger universal package | [View report](https://www.virustotal.com/gui/file/80dda3a0fba3e22313e6f3fd7bd41bdfa0786c22afdf7bceeb732f3445876955) |
 
 On a TV, open the **Downloader** app and enter **8238632**, or use `voidplayerapp.github.io/tv`.
 
